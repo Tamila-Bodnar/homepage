@@ -32,7 +32,7 @@ My very own personal website. Basically, this is just a resume.
 Personal website, social media profiles, content you create and publish across the web - all of this is a part of your **personal brand** or, in other words, the constant signal to potential employers, colleagues, managers of what you’re all about. A sleek resume website highlighting your experience could help you stand out from other candidates, tell more about you, show your best sides!
 
 #### Built With
-The goal of this project is to create an online version of the résumé using [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics), [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics), and the minimum amount of [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+The goal of this project is to create an online version of the résumé using [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics), [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 ### Getting Started
 
@@ -69,5 +69,3 @@ Distributed under the MIT License. See [`LICENSE`](https://gist.github.com/nicol
 tamila.bodnar@gmail.com
 
 LinkedIn - [LinkedIn](https://www.linkedin.com/in/tamila-bodnar/)
-
-Project Link:  [https://tamila-bodnar.github.io/homepage/](https://tamila-bodnar.github.io/homepage/)
