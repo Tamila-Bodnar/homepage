@@ -69,5 +69,3 @@ Distributed under the MIT License. See [`LICENSE`](https://gist.github.com/nicol
 tamila.bodnar@gmail.com
 
 LinkedIn - [LinkedIn](https://www.linkedin.com/in/tamila-bodnar/)
-
-🧙Hocus-pocus!
