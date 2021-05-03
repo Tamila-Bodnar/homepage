@@ -1,0 +1,17 @@
+.embroidery::before {
+  content: '';
+  position: absolute;
+  left: -60px;
+  top: 0;
+  display: inline-block;
+  background-image: url(../assets/images/15.jpg);
+  background-size: 60px;
+  background-repeat: repeat;
+  width: 60px;
+  height: 100%;
+}
+
+main {
+  background: #DEDEDE;
+}
+ 
