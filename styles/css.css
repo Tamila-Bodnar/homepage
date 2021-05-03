@@ -14,4 +14,10 @@
 main {
   background: #DEDEDE;
 }
+
+.contacts li a.mail:hover,
+.contacts li a.github:hover,
+.contacts li a.skype:hover {
+  color: #0077b5;
+}
  
