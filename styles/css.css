@@ -12,7 +12,7 @@
 }
 
 main {
-  background: #DEDEDE;
+  background: #dedede;
 }
 
 .contacts li a.mail:hover,
@@ -20,4 +20,3 @@ main {
 .contacts li a.skype:hover {
   color: #0077b5;
 }
- 
