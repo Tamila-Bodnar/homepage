@@ -4,6 +4,8 @@ My very own personal website. Basically, this is just a resume.
 (I am with the resume)  ![Funny bird](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmLzBRdC2zTwIWHbxvfUjUEDupUbyp9tCgQ&usqp=CAU)
 
 
+Here I am learning to create simple documentation.
+
 
 <details open="open">
   <summary>Table of Contents</summary>
