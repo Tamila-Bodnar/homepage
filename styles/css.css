@@ -21,14 +21,16 @@ main {
   color: #0077b5;
 }
 
-.location{
-  text-align: center;
-}
-
 @media  (min-width: 768px) and (max-width: 1250px) {
   .embroidery::before {
     left: 0;
     background-size: 30px;
     width: 30px;
+  }
+}
+
+@media  (max-width: 768px) {
+  .location{
+    text-align: center;
   }
 }
